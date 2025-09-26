@@ -42,5 +42,3 @@ We developed an automated NLP pipeline to classify:
 - Negative sentiment dominated especially on:  
   - Budget Efficiency (63.4%)  
   - VAT 12% (58.3%)  
-
-## 📂 Project Structure
